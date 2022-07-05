@@ -26,10 +26,13 @@ After submitting our initial analysis, the school board notified the team that t
       - By grade, the only change is among the ninth graders. The other classes will remain the same.
     - Scores by school spending
       - Relatively little change. Removing the 461 students in one high school has little effect on the data that is grouped by school spending.
+      - ![screenshot](https://user-images.githubusercontent.com/102992388/177380130-4954c97a-dbab-4134-9762-582aaca6255e.png)
     - Scores by school size
       - Larger schools on average perform worse. However the 461 students have little effect on the data that is grouped by school size
+      - ![screenshot](https://user-images.githubusercontent.com/102992388/177380101-be558a4b-ccba-489c-a4cd-4d57af7aa49d.png)
     - Scores by school type
       - Charter schools perform better than disctrict schools. Removing 461 students had little effect on data grouped by school type.
+      - ![screenshot](https://user-images.githubusercontent.com/102992388/177380055-a0cf8bbe-6afb-458f-b307-33644a7a6fa8.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
   - Thomas High Schools's math, reading, and overall percentage passing rates increased dramatically after removing 9th graders. 
