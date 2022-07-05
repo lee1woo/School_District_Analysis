@@ -14,14 +14,14 @@ After submitting our initial analysis, the school board notified the team that t
   - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     - After replacing the ninth graders' math and reading scores at Thomas High School, the overall percentage at Thomas increases dramatically. As such, Thomas High School ranks among the top schools in the district after removing the ninth graders' scores.
   - How does replacing the ninth-grade scores affect the following:
-  - Math and reading scores by grade
-    - By grade, the only change is among the ninth graders. The other classes will remain the same.
-  - Scores by school spending
-    - Relatively little change. Removing the 461 students in one high school has little effect on the data that is grouped by school spending.
-  - Scores by school size
-    - Larger schools on average perform worse. However the 461 students have little effect on the data that is grouped by school size
-  - Scores by school type
-    - Charter schools perform better than disctrict schools. Removing 461 students had little effect on data grouped by school type.
+    - Math and reading scores by grade
+      - By grade, the only change is among the ninth graders. The other classes will remain the same.
+    - Scores by school spending
+      - Relatively little change. Removing the 461 students in one high school has little effect on the data that is grouped by school spending.
+    - Scores by school size
+      - Larger schools on average perform worse. However the 461 students have little effect on the data that is grouped by school size
+    - Scores by school type
+      - Charter schools perform better than disctrict schools. Removing 461 students had little effect on data grouped by school type.
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
   - Thomas High Schools's math, reading, and overall percentage passing rates increased dramatically after removing 9th graders. 
