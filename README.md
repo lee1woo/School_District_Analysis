@@ -19,7 +19,8 @@ After submitting our initial analysis, the school board notified the team that t
     ![screenshot](https://user-images.githubusercontent.com/102992388/177379387-6a3dd91e-87b2-44c7-9ff5-f99287857e6d.png)
 
   - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-    - After replacing the ninth graders' math and reading scores at Thomas High School, the overall percentage at Thomas increases dramatically. As such, Thomas High School ranks among the top schools in the district after removing the ninth graders' scores.
+    - After replacing the ninth graders' math and reading scores at Thomas High School, the overall percentage at Thomas increases dramatically. As such, Thomas High School ranks among the top schools in the district after removing the ninth graders' scores. It shoots up the ranking to 2nd place.
+    ![screenshot](https://user-images.githubusercontent.com/102992388/177379618-3a239e9a-1544-447e-88cc-f544f6f66909.png)
   - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
       - By grade, the only change is among the ninth graders. The other classes will remain the same.
@@ -33,5 +34,5 @@ After submitting our initial analysis, the school board notified the team that t
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
   - Thomas High Schools's math, reading, and overall percentage passing rates increased dramatically after removing 9th graders. 
   - Most of the other data listed by different categories, including school type, school size, and school spending, was not affected by the removal of those 461 students. In a dataset of tens of thousands of students, 461 was not enough to move the needle. 
-  - The percentage of overall passing rates across all 15 schools increased. 
+  - The percentage of overall passing rates across all 15 schools decreased slightly. 
   - While the changes can be seen on the individual school at Thomas, there is not much of a difference across all schools.
